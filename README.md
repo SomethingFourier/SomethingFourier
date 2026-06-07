@@ -3,8 +3,7 @@
 * 📻 [Software-Defined Receiver](https://github.com/SomethingFourier/SDR-Receiver)
 
 ### I’m currently learning:
-* DMA & PIO on the Raspberry Pi Pico
-* How to use TinyUSB with the Raspberry Pi Pico to send audio to a computer
+* FreeCAD
 ---
 
 ### I enjoy:

@@ -11,6 +11,7 @@
   2. Designing circuits & PCBs 🔌
   3. Writing software 🧑‍💻
   4. Backpacking 🏕️
+  5. Snowboarding 🏂
 
 ---
 

@@ -1,6 +1,6 @@
 ### I'm currently working on these projects:
+* 🎙️🎧 [LibreCom](https://github.com/PKCubed/LibreCom)
 * 🎹 [FPGA Musical Synth](https://github.com/SomethingFourier/FPGA-Musical-Synth)
-* 📻 [Software-Defined Receiver](https://github.com/SomethingFourier/SDR-Receiver)
 
 ### I’m currently learning:
 * FreeCAD
@@ -16,6 +16,7 @@
 
 ### Other people's cool projects that deserve attention:
 * 📱 [SPIRIT: Open source smartphone, from available components](https://github.com/SPIRIT-org/SPIRIT)
+* 
 * 🎚️ [OpenFader: A project to modularize motorized faders with I2C control](https://github.com/PKCubed/OpenFader)
 <!--
 **SomethingFourier/SomethingFourier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

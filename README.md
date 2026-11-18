@@ -17,7 +17,6 @@
 
 ### Other people's cool projects that deserve attention:
 * 📱 [SPIRIT: Open source smartphone, from available components](https://github.com/SPIRIT-org/SPIRIT)
-* 
 * 🎚️ [OpenFader: A project to modularize motorized faders with I2C control](https://github.com/PKCubed/OpenFader)
 <!--
 **SomethingFourier/SomethingFourier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
